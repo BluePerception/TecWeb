@@ -113,15 +113,19 @@ body {
 
 #footer {
 	border-top: 1px solid #DDD;
-	text-align: center;
+    text-align: center;
+    padding-left: 10px;
 }
 
 #xhtml {
 	float: left;
+    align-items: center;
+    
 }
 
 #vcss {
-	float: right;
+    float: right;
+    align-content: center;
 }
 
 #content dt {
